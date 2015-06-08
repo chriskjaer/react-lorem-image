@@ -1,7 +1,7 @@
 # Lorem Image [![Build Status](https://travis-ci.org/chriskjaer/react-lorem-image.svg)](https://travis-ci.org/chriskjaer/react-lorem-image) [![npm version](https://badge.fury.io/js/react-lorem-image.svg)](http://badge.fury.io/js/react-lorem-image)
 
 <img src="http://mustachify.me/?src=http://www.fillmurray.com/300/300"
-align='left' width="200" height="200" hspace="12" alt="Fill Murray"/>
+align='left' width="200" height="200" hspace="30" alt="Fill Murray"/>
 
 Placeholder images for your React prototypes.
 
@@ -32,12 +32,13 @@ class Demo extends React.Component {
 
 ```javascript
 <LoremImage
-  type={ string }       // One of (See implemented services below.)
+  type={ string }       // Optional - One of (See implemented services below.)
+                        //            A random type will be selected if empty
   width={ ?number }     // Optional - Defaults to 200
   height={ ?number }    // Optional - Defaults to width
   mustache={ ?bool }    // Optional - Defaults to false
-  color={ ?bool }       // Optional - Defaults to true. Not all services
-                        //            have color.
+  color={ ?bool }       // Optional - Defaults to true.
+                        //            NOTE: Not all services have color.
 />
 ```
 
@@ -45,3 +46,7 @@ Services / Types allowed:
   - vanilla - Nice Nice Jpg / Vanilla Ice.
   - kitten - Placekitten
   - murray - Fill Murray / Bill Murray
+
+# Contributions
+Fell like there's missing a service? Want a feature added?
+Feel free to open an issue or add a pull request.
