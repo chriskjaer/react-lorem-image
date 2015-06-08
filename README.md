@@ -14,7 +14,7 @@ Implemented services:
 - http://placevaughnandfranco.it/
 - http://placebear.com/
 
-...and, to top it all of, you have to option to: http://mustachify.me/ !
+...all with the option to: http://mustachify.me/ !
 
 
 # Usage
