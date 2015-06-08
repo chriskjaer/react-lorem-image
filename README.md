@@ -42,7 +42,7 @@ class Demo extends React.Component {
 />
 ```
 
-Services / Types allowed:
+### Services / Types allowed:
   - vanilla - Nice Nice Jpg / Vanilla Ice.
   - kitten - Placekitten
   - murray - Fill Murray / Bill Murray
