@@ -1,7 +1,7 @@
 # Lorem Image [![Build Status](https://travis-ci.org/chriskjaer/react-lorem-image.svg)](https://travis-ci.org/chriskjaer/react-lorem-image) [![npm version](https://badge.fury.io/js/react-lorem-image.svg)](http://badge.fury.io/js/react-lorem-image)
 
 <img src="http://mustachify.me/?src=http://www.fillmurray.com/300/300"
-align='left' width="200" height="200" hspace="30" alt="Fill Murray"/>
+align='right' width="200" height="200" hspace="20" alt="Fill Murray"/>
 
 Placeholder images for your React prototypes.
 
