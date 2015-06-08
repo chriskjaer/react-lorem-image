@@ -1,6 +1,6 @@
 {
   "name": "react-lorem-image",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Placeholder images for your react prototypes",
   "main": "dist",
   "scripts": {
