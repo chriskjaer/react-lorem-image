@@ -1,7 +1,7 @@
 # Lorem Image [![Build Status](https://travis-ci.org/chriskjaer/react-lorem-image.svg)](https://travis-ci.org/chriskjaer/react-lorem-image) [![npm version](https://badge.fury.io/js/react-lorem-image.svg)](http://badge.fury.io/js/react-lorem-image)
 
-<img src="http://mustachify.me/?src=http://www.fillmurray.com/300/300"
-align='right' width="200" height="200" hspace="20" alt="Fill Murray"/>
+<img src="http://mustachify.me/?src=http%3A%2F%2Fplacevaughnandfranco.it%2Fimg%2Fsample.jpg"
+align='right' width="240" height="160" hspace="20" alt="Fill Murray"/>
 
 Placeholder images for your React prototypes.
 
@@ -11,6 +11,8 @@ Implemented services:
 - https://placekitten.com/
 - http://www.placecage.com/
 - http://www.stevensegallery.com/
+- http://placevaughnandfranco.it/
+- http://placebear.com/
 
 ...and, to top it all of, you have to option to: http://mustachify.me/ !
 
@@ -50,6 +52,8 @@ class Demo extends React.Component {
   - murray - Fill Murray / Bill Murray
   - cage - Place Cage
   - segal - Steven Segal
+  - bear - Bears!
+  - vaughn - Vince Vaughn and Co-stars Pose for Idiotic Stock Photos
 
 # Contributions
 Fell like there's missing a service? Want a feature added?
