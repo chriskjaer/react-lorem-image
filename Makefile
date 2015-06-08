@@ -60,6 +60,9 @@ release-minor:
 release-major:
 	$(call release,major)
 
+publish:
+	@git push && git push --tags && npm publish
+
 .PHONY:         \
   build         \
   build-local   \
@@ -71,3 +74,4 @@ release-major:
   test          \
   test-dist     \
   test-watch    \
+  publish       \
