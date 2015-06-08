@@ -9,6 +9,8 @@ Implemented services:
 - http://www.nicenicejpg.com/
 - http://www.fillmurray.com/
 - https://placekitten.com/
+- http://www.placecage.com/
+- http://www.stevensegallery.com/
 
 ...and, to top it all of, you have to option to: http://mustachify.me/ !
 
@@ -46,6 +48,8 @@ class Demo extends React.Component {
   - vanilla - Nice Nice Jpg / Vanilla Ice.
   - kitten - Placekitten
   - murray - Fill Murray / Bill Murray
+  - cage - Place Cage
+  - segal - Steven Segal
 
 # Contributions
 Fell like there's missing a service? Want a feature added?
