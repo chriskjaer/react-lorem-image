@@ -13,6 +13,7 @@ Implemented services:
 - http://www.stevensegallery.com/
 - http://placevaughnandfranco.it/
 - http://placebear.com/
+- http://beerhold.it/
 
 ...all with the option to: http://mustachify.me/ !
 
@@ -54,6 +55,7 @@ class Demo extends React.Component {
   - segal - Steven Segal
   - bear - Bears!
   - vaughn - Vince Vaughn and Co-stars Pose for Idiotic Stock Photos
+  - beerholder - a service for thirsty devs from beerhold.it
 
 # Contributions
 Fell like there's missing a service? Want a feature added?
