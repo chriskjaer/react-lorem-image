@@ -13,6 +13,7 @@ Implemented services:
 - http://www.stevensegallery.com/
 - http://placevaughnandfranco.it/
 - http://placebear.com/
+- http://beerhold.it/
 
 ...all with the option to: http://mustachify.me/ !
 
