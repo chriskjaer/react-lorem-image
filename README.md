@@ -54,6 +54,7 @@ class Demo extends React.Component {
   - segal - Steven Segal
   - bear - Bears!
   - vaughn - Vince Vaughn and Co-stars Pose for Idiotic Stock Photos
+  - beerholder - a service for thirsty devs from beerhold.it
 
 # Contributions
 Fell like there's missing a service? Want a feature added?
